@@ -15,7 +15,7 @@
 
 # Add feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src/gz nikki https://nikkinikki.pages.dev/openwrt-24.10/aarch64_cortex-a53/nikki/' >>feeds.conf.default
+#echo 'src/gz nikki https://nikkinikki.pages.dev/openwrt-24.10/aarch64_cortex-a53/nikki/' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 # Add ADGuardHome source
